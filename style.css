@@ -71,8 +71,7 @@ body {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 40px;
-  align-items: center;
-
+  align-items: center;}
 .hero-text h1 {
   font-size: 46px;
   line-height: 1.1;
@@ -194,3 +193,4 @@ textarea:focus {
   color: #6b7280;
   font-size: 14px;
 }
+
